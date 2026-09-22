@@ -111,7 +111,7 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/elianahaddad12/chinese-character-analysis.git
-cd <your-repo-name>
+cd chinese-character-analysis
 pip install -r requirements.txt
 ```
 
