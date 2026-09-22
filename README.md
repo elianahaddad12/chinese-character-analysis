@@ -110,7 +110,7 @@ Because no single dataset fully captures character variants, pronunciations, and
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
+git clone https://github.com/elianahaddad12/chinese-character-analysis.git
 cd <your-repo-name>
 pip install -r requirements.txt
 ```
