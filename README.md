@@ -9,7 +9,7 @@ An extensive data science and computational linguistics project analyzing the st
 
 ### 👥 Team Members
 - **Or Waingortin**
-- **Hadas Grossztein**
+- **Hadas Grossztein** 
 - **Eliana Haddad**
 *(The Hebrew University of Jerusalem)*
 
